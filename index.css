@@ -1,0 +1,12 @@
+li{
+    font-size: 40px;
+    list-style: none;
+    float: left;
+}
+.onHovercolor{
+    color: gold;
+    opacity: 0.4 ;
+}
+.clickcolor{
+    color: gold;
+}
